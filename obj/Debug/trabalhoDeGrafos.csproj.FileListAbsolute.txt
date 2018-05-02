@@ -1,0 +1,6 @@
+c:\users\lorena carla\documents\visual studio 2015\Projects\trabalhoDeGrafos\bin\Debug\trabalhoDeGrafos.exe.config
+c:\users\lorena carla\documents\visual studio 2015\Projects\trabalhoDeGrafos\obj\Debug\trabalhoDeGrafos.csprojResolveAssemblyReference.cache
+c:\users\lorena carla\documents\visual studio 2015\Projects\trabalhoDeGrafos\bin\Debug\trabalhoDeGrafos.exe
+c:\users\lorena carla\documents\visual studio 2015\Projects\trabalhoDeGrafos\bin\Debug\trabalhoDeGrafos.pdb
+c:\users\lorena carla\documents\visual studio 2015\Projects\trabalhoDeGrafos\obj\Debug\trabalhoDeGrafos.exe
+c:\users\lorena carla\documents\visual studio 2015\Projects\trabalhoDeGrafos\obj\Debug\trabalhoDeGrafos.pdb
