@@ -4,3 +4,6 @@ c:\users\lorena carla\documents\visual studio 2015\Projects\trabalhoDeGrafos\bin
 c:\users\lorena carla\documents\visual studio 2015\Projects\trabalhoDeGrafos\bin\Debug\trabalhoDeGrafos.pdb
 c:\users\lorena carla\documents\visual studio 2015\Projects\trabalhoDeGrafos\obj\Debug\trabalhoDeGrafos.exe
 c:\users\lorena carla\documents\visual studio 2015\Projects\trabalhoDeGrafos\obj\Debug\trabalhoDeGrafos.pdb
+C:\Users\Lorena Carla\Documents\TrabalhoDeGrafos\bin\Debug\trabalhoDeGrafos.exe.config
+C:\Users\Lorena Carla\Documents\TrabalhoDeGrafos\obj\Debug\trabalhoDeGrafos.exe
+C:\Users\Lorena Carla\Documents\TrabalhoDeGrafos\obj\Debug\trabalhoDeGrafos.pdb
